@@ -34,11 +34,6 @@ Exploring and visualizing the relationship of potential predictors with the outc
 ### Model Development and Evaluation 
 Created a base model with one hidden layer, a larger model with more hidden layers having less number of nodes, and a wider model with less hidden layers having more number of nodes and evaluated the models using 10 fold cross validation.
 
-## Contributors
-Aravind Rao Marthineni
-Bharath Sepuri
-Sri Lakshmi Sangaraju 
-
 ## Conclusion
 1. The model having more number of hidden layers is performing better than the model having more number of nodes. 
 2. Director facebook likes and actors facebook likes matter. There is not much gain from adding the categorical and 
@@ -51,5 +46,11 @@ in a reasonable amount of time
 unable to minimize the error. We believe it might be possible with some external data.
 2. Further work could be done on data preprocessing, feature engineering and adding hyperparameter values.
 3. Further research could be done more about tensor flow and explore neural network techniques.
+
+## Contributors
+..*. Aravind Rao Marthineni
+..*. Bharath Sepuri
+..*. Sri Lakshmi Sangaraju 
+
 
 
