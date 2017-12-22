@@ -50,7 +50,7 @@ unable to minimize the error. We believe it might be possible with some external
 ## Contributors
 * Aravind Rao Marthineni
 * Bharath Sepuri
-* Sri Lakshmi Sangaraju 
+* Srilakshmi Sangaraju 
 
 
 
