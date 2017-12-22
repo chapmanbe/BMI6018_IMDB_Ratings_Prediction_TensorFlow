@@ -1,8 +1,8 @@
 # BMI6018_IMDB_Ratings_Prediction_TensorFlow
 
-### Predicting movie ratings based on movie metadata obtained from IMDB APIs containing social media attributes and posters information.
+Predicting movie ratings based on movie metadata obtained from IMDB APIs containing social media attributes and posters information.
 
-### Used Tensor Flow and Neural Network techniques to implement the models.
+Used Tensor Flow and Neural Network techniques to implement the models.
 
 ## Getting Started
 
@@ -48,9 +48,9 @@ unable to minimize the error. We believe it might be possible with some external
 3. Further research could be done more about tensor flow and explore neural network techniques.
 
 ## Contributors
-..*. Aravind Rao Marthineni
-..*. Bharath Sepuri
-..*. Sri Lakshmi Sangaraju 
+..* Aravind Rao Marthineni
+..* Bharath Sepuri
+..* Sri Lakshmi Sangaraju 
 
 
 
