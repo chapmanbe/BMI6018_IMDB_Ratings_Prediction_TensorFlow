@@ -48,9 +48,9 @@ unable to minimize the error. We believe it might be possible with some external
 3. Further research could be done more about tensor flow and explore neural network techniques.
 
 ## Contributors
-..* Aravind Rao Marthineni
-..* Bharath Sepuri
-..* Sri Lakshmi Sangaraju 
+* Aravind Rao Marthineni
+* Bharath Sepuri
+* Sri Lakshmi Sangaraju 
 
 
 
