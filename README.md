@@ -1,4 +1,4 @@
-# BMI6018_IMDB_Ratings_Prediction_TensorFlow
+# IMDB Ratings Prediction using TensorFlow
 
 Predicting movie ratings based on movie metadata obtained from IMDB APIs containing social media attributes and posters information.
 
