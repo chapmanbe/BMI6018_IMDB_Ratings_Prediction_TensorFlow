@@ -35,17 +35,17 @@ Exploring and visualizing the relationship of potential predictors with the outc
 Created a base model with one hidden layer, a larger model with more hidden layers having less number of nodes, and a wider model with less hidden layers having more number of nodes and evaluated the models using 10 fold cross validation.
 
 ## Conclusion
-1. The model having more number of hidden layers is performing better than the model having more number of nodes. 
-2. Director facebook likes and actors facebook likes matter. There is not much gain from adding the categorical and 
+* The model having more number of hidden layers is performing better than the model having more number of nodes. 
+* Director facebook likes and actors facebook likes matter. There is not much gain from adding the categorical and 
 the keywords variables.
-3. Correlated variables have been removed as we wanted to reduce the number of variables for the fitting to happen 
+* Correlated variables have been removed as we wanted to reduce the number of variables for the fitting to happen 
 in a reasonable amount of time
 
 ## Future Improvement
-1. We happened to run these models a few times (without poster information, with plot_keywords, and without directors) but still 
+* We happened to run these models a few times (without poster information, with plot_keywords, and without directors) but still 
 unable to minimize the error. We believe it might be possible with some external data.
-2. Further work could be done on data preprocessing, feature engineering and adding hyperparameter values.
-3. Further research could be done more about tensor flow and explore neural network techniques.
+* Further work could be done on data preprocessing, feature engineering and adding hyperparameter values.
+* Further research could be done more about tensor flow and explore neural network techniques.
 
 ## Contributors
 * Aravind Rao Marthineni
