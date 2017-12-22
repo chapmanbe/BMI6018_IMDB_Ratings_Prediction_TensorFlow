@@ -4,6 +4,10 @@
 
 ### Used Tensor Flow and Neural Network techniques to implement the models.
 
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
 ## Libraries required:
 
 ### Keras
@@ -17,6 +21,8 @@ Numpy is the fundamental package for scientific computing with Python. It contai
 
 ### Pandas
 Pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series.
+
+
 
 ### Conclusion
 1. The model having more number of hidden layers is performing better than the model having more number of neurons. 
