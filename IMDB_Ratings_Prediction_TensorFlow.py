@@ -280,21 +280,3 @@ results = cross_val_score(estimator, X, Y, cv=kfold)
 print("Results: %.2f (%.2f) MAE" % (results.mean(), results.std()))
 
 
-# In[159]:
-
-## Conclusion
-1.The model having more number of hidden layers is performing better than the model having more number of neurons. 
-2.Director facebook likes and actors facebook likes matter. There is not much gain from adding the categorical and 
-the keywords variables.
-3.I have removed the correlated variables as I wanted to reduce the number of variables for the fitting to happen 
-in a reasonable amount of time
-
-
-# In[ ]:
-
-## Future Improvement
-1.I happened to run my models a few times (without poster information, with plot_keywords, and without directors) but still 
-unable to minimize the error, I believe it might be possible with some external data.
-2.Should work more on data preprocessing, feature engineering and adding hyperparameter values.
-3.Should research more about tensor flow and explore neural network techniques.
-
