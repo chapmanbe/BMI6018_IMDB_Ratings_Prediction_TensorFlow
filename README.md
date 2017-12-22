@@ -22,7 +22,12 @@ Numpy is the fundamental package for scientific computing with Python. It contai
 ### Pandas
 Pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series.
 
+### Approach
 
+### Data PreProcessing
+
+1. Replaced NaN in Numeric variables by mean value
+2. Replaced NaN in character variables by mode value
 
 ### Conclusion
 1. The model having more number of hidden layers is performing better than the model having more number of neurons. 
